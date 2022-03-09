@@ -1,0 +1,27 @@
+s
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.heart{
+    position: relative;
+    height: 100vh;
+    width: 100vh;
+    background: #c9c9c9;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+img{
+    border-radius: 10px;
+    display: flex;
+    
+}
+.text{
+    text-align: left;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
